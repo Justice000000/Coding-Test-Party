@@ -54,7 +54,7 @@ func getDivisors(number: Int) -> [Int] {
 }
 
 
-// MARK: - 유클리드 호제법을 사용해서 최대 공약수 구하기
+// MARK: - 유클리드 호제법을 사용해서 최대 공약수 구하기 ⭐️
 func gcd(_ a: Int, _ b: Int) -> Int {
     if a % b == 0 {
         return b
