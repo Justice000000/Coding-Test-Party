@@ -18,3 +18,5 @@ func solution(_ angle:Int) -> Int {
             return 0
     }
 }
+
+
