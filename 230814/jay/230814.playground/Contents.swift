@@ -15,3 +15,4 @@ func solution(_ a:Int, _ d:Int, _ included:[Bool]) -> Int {
     return sum
 }
 
+
